@@ -1,0 +1,110 @@
+{
+  "fundamentals-of-science-renewable-energy": [
+    {
+      "id": "sub-sample-1",
+      "testId": "fundamentals-of-science-renewable-energy",
+      "testTitle": "Fundamentals of Science & Renewable Energy",
+      "subject": "General Science",
+      "studentName": "Alex Rivera",
+      "studentIdentifier": "STU-9021",
+      "submittedAt": "2026-09-17T03:20:01.982Z",
+      "timeSpentSeconds": 420,
+      "totalScore": 23,
+      "maxScore": 25,
+      "percentage": 92,
+      "grade": "A",
+      "passed": true,
+      "evaluations": [
+        {
+          "questionId": "q1",
+          "questionType": "mcq",
+          "questionText": "Which planet in our Solar System is famously known as the Red Planet due to iron oxide on its surface?",
+          "marksAwarded": 4,
+          "maxMarks": 4,
+          "status": "correct",
+          "studentAnswerDisplay": "Mars",
+          "correctAnswerDisplay": "Mars"
+        },
+        {
+          "questionId": "q2",
+          "questionType": "mcq",
+          "questionText": "Which of the following are categorized as renewable energy sources? (Select 2 correct options)",
+          "marksAwarded": 6,
+          "maxMarks": 6,
+          "status": "correct",
+          "studentAnswerDisplay": "Solar Energy, Wind Power",
+          "correctAnswerDisplay": "Solar Energy, Wind Power"
+        },
+        {
+          "questionId": "q3",
+          "questionType": "true_false",
+          "questionText": "Sound waves can travel through a complete vacuum in outer space.",
+          "marksAwarded": 5,
+          "maxMarks": 5,
+          "status": "correct",
+          "studentAnswerDisplay": "False",
+          "correctAnswerDisplay": "False"
+        },
+        {
+          "questionId": "q4",
+          "questionType": "theory",
+          "questionText": "Explain how photosynthesis works in green plants and why it is vital for Earth's atmosphere.",
+          "marksAwarded": 8,
+          "maxMarks": 10,
+          "status": "partial",
+          "studentAnswerDisplay": "Plants use sunlight, water, and CO2 absorbed through their leaves to create food and sugars for themselves, and they expel oxygen into the air. This maintains the oxygen balance that humans and animals need to breathe.",
+          "correctAnswerDisplay": "Photosynthesis is the biological process by which green plants, algae, and some bacteria convert light energy (typically from the sun) into chemical energy. Using chlorophyll inside chloroplasts, plants take in carbon dioxide from the air and water from the soil to produce glucose (sugar) for energy and food, while releasing oxygen as a byproduct into the atmosphere. It is vital because it generates the oxygen aerobic organisms breathe and acts as a primary carbon sink regulating global atmospheric carbon levels.",
+          "theoryFeedback": {
+            "conceptMatchPercentage": 85,
+            "accuracyScore": 8.5,
+            "conceptualVerdict": "Strong conceptual understanding with clear explanation",
+            "strengths": "Accurately recognized sunlight, CO2, and water inputs, formation of sugars/food, and oxygen release vital for animal respiration.",
+            "missingPoints": "Could have mentioned chloroplasts/chlorophyll pigment and carbon cycle regulation.",
+            "rubricNotes": "Clear and coherent answer capturing all principal biological mechanisms."
+          }
+        }
+      ]
+    }
+  ],
+  "kkp": [],
+  "ca-aspirants": [
+    {
+      "id": "sub-mu57uz6o-b6rw",
+      "testId": "ca-aspirants",
+      "testTitle": "ca aspirants",
+      "subject": "accounting",
+      "studentName": "Bilal Ahmed",
+      "studentIdentifier": "CA-1001",
+      "submittedAt": "2026-09-17T07:36:53.664Z",
+      "timeSpentSeconds": 95,
+      "totalScore": 8,
+      "maxScore": 8,
+      "percentage": 100,
+      "grade": "A+",
+      "passed": true,
+      "evaluations": [
+        {
+          "questionId": "q_1",
+          "questionType": "mcq",
+          "questionText": "is this good",
+          "marksAwarded": 4,
+          "maxMarks": 4,
+          "status": "correct",
+          "studentAnswerDisplay": "yes",
+          "correctAnswerDisplay": "yes"
+        },
+        {
+          "questionId": "q_2",
+          "questionType": "mcq",
+          "questionText": "i made it for test",
+          "marksAwarded": 4,
+          "maxMarks": 4,
+          "status": "correct",
+          "studentAnswerDisplay": "yes",
+          "correctAnswerDisplay": "yes"
+        }
+      ]
+    }
+  ],
+  "physics-mechanics-test": []
+}

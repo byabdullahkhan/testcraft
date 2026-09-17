@@ -1,0 +1,200 @@
+[
+  {
+    "id": "fundamentals-of-science-renewable-energy",
+    "slug": "fundamentals-of-science-renewable-energy",
+    "title": "Fundamentals of Science & Renewable Energy",
+    "subject": "General Science",
+    "instructions": "Answer all questions carefully. For multiple-choice questions with 2 correct answers, make sure to pick both. Theory answers will be evaluated conceptually by AI.",
+    "timeLimitMinutes": 15,
+    "totalMarks": 25,
+    "createdAt": "2026-09-16T06:20:01.981Z",
+    "creatorName": "Prof. Anderson",
+    "questions": [
+      {
+        "id": "q1",
+        "type": "mcq",
+        "questionText": "Which planet in our Solar System is famously known as the Red Planet due to iron oxide on its surface?",
+        "marks": 4,
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Venus"
+          },
+          {
+            "id": "opt2",
+            "text": "Mars"
+          },
+          {
+            "id": "opt3",
+            "text": "Jupiter"
+          },
+          {
+            "id": "opt4",
+            "text": "Mercury"
+          }
+        ],
+        "correctOptionIds": [
+          "opt2"
+        ]
+      },
+      {
+        "id": "q2",
+        "type": "mcq",
+        "questionText": "Which of the following are categorized as renewable energy sources? (Select 2 correct options)",
+        "marks": 6,
+        "options": [
+          {
+            "id": "optA",
+            "text": "Solar Energy"
+          },
+          {
+            "id": "optB",
+            "text": "Coal Combustion"
+          },
+          {
+            "id": "optC",
+            "text": "Wind Power"
+          },
+          {
+            "id": "optD",
+            "text": "Natural Gas"
+          },
+          {
+            "id": "optE",
+            "text": "Diesel Fuel"
+          }
+        ],
+        "correctOptionIds": [
+          "optA",
+          "optC"
+        ],
+        "partialMarkingRule": "half"
+      },
+      {
+        "id": "q3",
+        "type": "true_false",
+        "questionText": "Sound waves can travel through a complete vacuum in outer space.",
+        "marks": 5,
+        "correctBoolean": false
+      },
+      {
+        "id": "q4",
+        "type": "theory",
+        "questionText": "Explain how photosynthesis works in green plants and why it is vital for Earth's atmosphere.",
+        "marks": 10,
+        "modelAnswer": "Photosynthesis is the biological process by which green plants, algae, and some bacteria convert light energy (typically from the sun) into chemical energy. Using chlorophyll inside chloroplasts, plants take in carbon dioxide from the air and water from the soil to produce glucose (sugar) for energy and food, while releasing oxygen as a byproduct into the atmosphere. It is vital because it generates the oxygen aerobic organisms breathe and acts as a primary carbon sink regulating global atmospheric carbon levels."
+      }
+    ]
+  },
+  {
+    "id": "kkp",
+    "slug": "kkp",
+    "title": "kk'p",
+    "subject": "General",
+    "instructions": "Read each question attentively. Note questions with multiple correct choices. Submit before the timer expires.",
+    "timeLimitMinutes": 20,
+    "totalMarks": 4,
+    "createdAt": "2026-09-17T06:23:37.540Z",
+    "creatorName": "Instructor",
+    "questions": [
+      {
+        "id": "q_1",
+        "type": "mcq",
+        "questionText": "Multiple Choice Question 1 (Select 2 correct options)",
+        "marks": 4,
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "Option 1"
+          },
+          {
+            "id": "opt_2",
+            "text": "Option 2"
+          },
+          {
+            "id": "opt_3",
+            "text": "Option 3"
+          },
+          {
+            "id": "opt_4",
+            "text": "Option 4"
+          }
+        ],
+        "correctOptionIds": [
+          "opt_1",
+          "opt_3"
+        ],
+        "partialMarkingRule": "half"
+      }
+    ]
+  },
+  {
+    "id": "ca-aspirants",
+    "slug": "ca-aspirants",
+    "title": "ca aspirants",
+    "subject": "accounting",
+    "instructions": "Read each question attentively. Note questions with multiple correct choices. Submit before the timer expires.",
+    "timeLimitMinutes": 20,
+    "totalMarks": 8,
+    "createdAt": "2026-09-17T07:05:03.593Z",
+    "creatorName": "abdulllah",
+    "questions": [
+      {
+        "id": "q_1",
+        "type": "mcq",
+        "questionText": "is this good",
+        "marks": 4,
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "yes"
+          },
+          {
+            "id": "opt_2",
+            "text": "no"
+          },
+          {
+            "id": "opt_3",
+            "text": "may be"
+          },
+          {
+            "id": "opt_4",
+            "text": "may be not"
+          }
+        ],
+        "correctOptionIds": [
+          "opt_1"
+        ],
+        "partialMarkingRule": "half"
+      },
+      {
+        "id": "q_2",
+        "type": "mcq",
+        "questionText": "i made it for test",
+        "marks": 4,
+        "options": [
+          {
+            "id": "opt_1",
+            "text": "yes"
+          },
+          {
+            "id": "opt_2",
+            "text": "yess"
+          },
+          {
+            "id": "opt_3",
+            "text": "yesss"
+          },
+          {
+            "id": "opt_4",
+            "text": "yessss"
+          }
+        ],
+        "correctOptionIds": [
+          "opt_1"
+        ],
+        "partialMarkingRule": "half"
+      }
+    ]
+  }
+]
